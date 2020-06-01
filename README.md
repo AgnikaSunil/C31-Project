@@ -1,2 +1,6 @@
-# staticSquare
-A static square made using Matter.js physics engine
+# C31 Project
+
+OUTPUT LINK
+
+
+https://agnikasunil.github.io/C31-Project/
