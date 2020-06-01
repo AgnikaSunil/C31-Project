@@ -55,15 +55,15 @@ class Snake {
         if(this.x > 800 || this.x < 0 || this.y > 400 || this.y < 0){
        
           //write code to display text "GAME OVER"
-          stroke("red");
-          strokeWeight(2.4);
+          background("red");
+          stroke("blue");
+          strokeWeight(2.7);
           fill("yellow");
           textFont("georgia");
           textSize(27);
           text("Refresh to restart",290,100);
           textSize(30);
           text("GAME OVER !",300,50);       
-          
           return true;
          }
           else return false;
